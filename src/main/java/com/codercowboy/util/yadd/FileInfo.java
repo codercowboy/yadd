@@ -2,19 +2,6 @@ package com.codercowboy.util.yadd;
 
 import java.io.Serializable;
 
-/* 
- * MEDIA DRIVER, LLC CONFIDENTIAL
- * 
- * Copyright © 2011 - 2014 Media Driver, LLC. All Rights Reserved.
- *  
- * NOTICE:  All information contained herein is, and remains the property of Media Driver, LLC 
- * and its suppliers, if any.  The intellectual and technical concepts contained herein are 
- * proprietary to Media Driver, LLC and its suppliers and may be covered by U.S. and Foreign 
- * Patents, patents in process, and are protected by trade secret or copyright law.  Dissemination 
- * of this information or reproduction of this material is strictly forbidden unless prior written 
- * permission is obtained from Media Driver, LLC.
- */
-
 public class FileInfo implements Serializable {
 	private static final long serialVersionUID = 1L;
 	protected String relativePath;
